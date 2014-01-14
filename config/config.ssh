@@ -1,0 +1,4 @@
+Host gitlab.example.com
+HostName gitlab.example.com
+User git
+IdentityFile ~/.ssh/glhooks_rsa
